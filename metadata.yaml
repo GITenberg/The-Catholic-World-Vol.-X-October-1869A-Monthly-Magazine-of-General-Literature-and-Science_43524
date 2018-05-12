@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43524#The-Catholic-World-Vol.-X-October-1869A-Monthly-Magazine-of-General-Literature-and-Science
 gutenberg_bookshelf: The Catholic World
 gutenberg_issued: '2013-08-21'
 gutenberg_type: Text
